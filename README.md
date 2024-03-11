@@ -24,7 +24,7 @@ FarmerAid is a web application that utilizes deep learning to detect diseases in
 
 ```bash
 git clone https://github.com/your-username/farmer-aid.git
-
+```
 ## Step-by-Step Approach
 
 1. **Install Dependencies**:
